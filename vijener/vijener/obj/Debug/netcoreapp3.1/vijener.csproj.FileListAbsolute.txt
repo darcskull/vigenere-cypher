@@ -1,0 +1,14 @@
+D:\uni\5семестър\крипто\vijener\vijener\vijener\obj\Debug\netcoreapp3.1\vijener.csproj.AssemblyReference.cache
+D:\uni\5семестър\крипто\vijener\vijener\vijener\obj\Debug\netcoreapp3.1\vijener.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\5семестър\крипто\vijener\vijener\vijener\obj\Debug\netcoreapp3.1\vijener.AssemblyInfoInputs.cache
+D:\uni\5семестър\крипто\vijener\vijener\vijener\obj\Debug\netcoreapp3.1\vijener.AssemblyInfo.cs
+D:\uni\5семестър\крипто\vijener\vijener\vijener\obj\Debug\netcoreapp3.1\vijener.csproj.CoreCompileInputs.cache
+D:\uni\5семестър\крипто\vijener\vijener\vijener\bin\Debug\netcoreapp3.1\vijener.exe
+D:\uni\5семестър\крипто\vijener\vijener\vijener\bin\Debug\netcoreapp3.1\vijener.deps.json
+D:\uni\5семестър\крипто\vijener\vijener\vijener\bin\Debug\netcoreapp3.1\vijener.runtimeconfig.json
+D:\uni\5семестър\крипто\vijener\vijener\vijener\bin\Debug\netcoreapp3.1\vijener.runtimeconfig.dev.json
+D:\uni\5семестър\крипто\vijener\vijener\vijener\bin\Debug\netcoreapp3.1\vijener.dll
+D:\uni\5семестър\крипто\vijener\vijener\vijener\bin\Debug\netcoreapp3.1\vijener.pdb
+D:\uni\5семестър\крипто\vijener\vijener\vijener\obj\Debug\netcoreapp3.1\vijener.dll
+D:\uni\5семестър\крипто\vijener\vijener\vijener\obj\Debug\netcoreapp3.1\vijener.pdb
+D:\uni\5семестър\крипто\vijener\vijener\vijener\obj\Debug\netcoreapp3.1\vijener.genruntimeconfig.cache
